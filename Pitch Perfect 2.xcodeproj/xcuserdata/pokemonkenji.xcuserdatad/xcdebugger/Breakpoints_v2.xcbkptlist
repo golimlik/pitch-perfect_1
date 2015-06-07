@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Perfect 2/RecordSoundsViewController.swift"
+            timestampString = "453525557.828955"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_2.RecordSoundsViewController.RecordButton.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIButton&gt;"
+                  moduleName = "Pitch Perfect 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pokemonkenji/Dropbox/Pitch%20Perfect%202/Pitch%20Perfect%202/RecordSoundsViewController.swift"
+                  timestampString = "453445391.226968"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_2.RecordSoundsViewController.RecordButton.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIButton&gt;"
+                  moduleName = "Pitch Perfect 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pokemonkenji/Dropbox/Pitch%20Perfect%202/Pitch%20Perfect%202/RecordSoundsViewController.swift"
+                  timestampString = "453445391.227164"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_2.RecordSoundsViewController.init (Pitch_Perfect_2.RecordSoundsViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Pitch_Perfect_2.RecordSoundsViewController"
+                  moduleName = "Pitch Perfect 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pokemonkenji/Dropbox/Pitch%20Perfect%202/Pitch%20Perfect%202/RecordSoundsViewController.swift"
+                  timestampString = "453445391.227342"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_2.RecordSoundsViewController.init (Pitch_Perfect_2.RecordSoundsViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Pitch_Perfect_2.RecordSoundsViewController"
+                  moduleName = "Pitch Perfect 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pokemonkenji/Dropbox/Pitch%20Perfect%202/Pitch%20Perfect%202/RecordSoundsViewController.swift"
+                  timestampString = "453445391.227516"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
